@@ -1,6 +1,6 @@
-# Quiet Facebook
+# Quieter Facebook
 
-![](https://raw.githubusercontent.com/maxfriedrich/quiet-facebook/master/screenshot.png)
+![](https://raw.githubusercontent.com/NoahNelson/quiet-facebook/master/screenshot.png)
 
 
 ## Installation

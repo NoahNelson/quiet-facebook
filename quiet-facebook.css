@@ -1,7 +1,11 @@
 
 #pagelet_bookmark_nav, /* Left column: Bookmarks */
 a[href*="lists"], /* Left column: Lists like 'Close Friends' */
-div[id*="ticker"], /* Right column / Chat sidebar: news ticker */
+#rightCol, /* Entire right Column */
+#appsNav, /* Navigation items besides Favorites */
+#pagesNav,
+#groupsNav,
+#eventsNav,
 div[id*="pagelet_trending_tags_and_topics"] /* Right column: Trending tags and topics */
 {
   display: none !important;
